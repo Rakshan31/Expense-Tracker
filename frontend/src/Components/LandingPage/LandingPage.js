@@ -157,7 +157,7 @@ const LandingPage = () => {
 
       <footer id="footer">
         <div id="footer-content">
-          <p>Made By Shivendra Mishra</p>
+          <p>Made By Mohan Raj, Mohindha Rakshan, Gayathri Sunil</p>
         </div>
       </footer>
     </div>
